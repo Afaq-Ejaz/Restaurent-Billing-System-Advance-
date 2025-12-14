@@ -15,12 +15,14 @@ def escape():
 
 # our Menu
 menu = {
+
     "popcorn" :   90,
     "colddrink" : 70,
     "biryani" :   250,
     "tikka" :     400, 
     "mintdrink":  80,
     "coffee":     100
+    
 }
 
 # specifying the quantity for items in menu per item
